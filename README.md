@@ -17,10 +17,14 @@
 7. 退会
 8. ポイント交換
 
+## PHP
+PHP7.0
+
 ## フレームワーク
 laravel5
 
 がっつりlaravel依存を許容する
 
 ## DB
-postgres9
+postgres9.4.5
+
